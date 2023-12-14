@@ -1,4 +1,4 @@
-# calculator_app
+# Calculator App
 
 A simple calculator application.
 
